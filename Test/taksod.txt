@@ -1,0 +1,7 @@
+Maksitaksi,2.0,0.6
+S�ps veab,10,0
+Waldo takso,1.0,1.0
+Tallink,0.5,0.4
+Taxify,2.3,0.1
+Masin,1.2,0.1
+Speed,0.7,1.0

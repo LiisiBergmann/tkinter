@@ -1,0 +1,18 @@
+Willem Ruut : "Tõde ja Õigus" 0.5 2018-10-07
+Annika Rebane : "Twilight" 0.3 2019-05-12
+Karl Jürgen Kivi : "Harry Potter ja Saladuste kamber" 0.5 2019-09-29
+Eerika Aas : "Surmalask" 0.8 2019-07-07
+Karoline Hiiu : "Hamlet" 0.2 2018-12-01
+Anton Kuristik : "Romeo ja Julia" 0.4 2019-10-01
+Peeter Punane : "Nullpunkt" 0.7 2019-01-31
+Sigrid Härmas : "Lohetätoveeringuga tüdruk" 0.6 2013-10-10
+Robert Lumi : "Sirli, Siim ja Saladused" 0.1 2019-10-07
+Eerika Aas : "Nullpunkt" 0.7 2019-06-15
+Karoline Hiiu : "Tõde ja Õigus" 0.5 2019-04-17
+Anton Kuristik : "Surmalask" 0.8 2019-09-01
+Peeter Punane : "Nullpunkt" 0.7 2019-08-27
+Sigrid Härmas : "Eragon" 0.9 2019-07-19
+Robert Lumi : "Romeo ja Julia" 0.4 2019-02-21
+Willem Ruut : "Päikesemärgid" 0.4 2018-10-07
+Annika Rebane : "Heade mõtete raamat" 0.7 2019-05-12
+Karl Jürgen Kivi : "Näljamängud" 0.5 2019-09-29
